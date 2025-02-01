@@ -5,7 +5,7 @@ import AuditFindings from "./components/AuditFindings"
 import AuditHead from "./components/AuditHead"
 import AuditReportHeader from "./components/AuditReportHeader"
 import AuditSummary from "./components/AuditSummary"
-import Nav from "./components/nav"
+import Nav from "./components/Nav"
 
 const App = () => {
     return (
