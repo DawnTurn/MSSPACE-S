@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+  html{
+    font-family: 'Heebo', serif;
+  }
+}
+
+@layer utilities{
+  .bg-button-background{
+    background: #C7C4D1;
+  }
+}
